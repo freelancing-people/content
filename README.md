@@ -7,7 +7,7 @@ This section will thoroughly teach you how to use this repo for answering your i
 ### Markdown
 We only accept drafts in a MarkDown (.md) file. If you are not familiar with MarkDown files, [here is a great resource to get you started.](http://www.markdowntutorial.com/)
 
-If you aren't comfortable with Markdown or Github workflow, no worries :) Just email your concern to viraj@virajkhatavkar.com and I will send you a separate mail with questions. You can answer them inline in your email if you prefer that option.
+If you aren't a developer and not comfortable with Markdown or Github workflow, no worries :) Just email your concern to viraj@virajkhatavkar.com and I will send you a separate mail with questions. You can answer them inline in your email.
 
 ### Step by Step submission:
 1. Fork the repo you’ve joined. If you have a fork already, synchronize it with the original version (in case the original was updated with other people’s posts since you forked it)
@@ -25,7 +25,7 @@ git commit -m "My first interview with Consulting People"
 git push origin my-first-interview-with-consulting-people
 ```
 
-Finally, send a [pull request](https://help.github.com/articles/about-pull-requests/).
+Finally, send a [pull request](https://help.github.com/articles/about-pull-requests/) to the `master` branch.
 
 **When submission is complete:**
 Once a draft PR is submitted, it will be given a label of editor-review:
