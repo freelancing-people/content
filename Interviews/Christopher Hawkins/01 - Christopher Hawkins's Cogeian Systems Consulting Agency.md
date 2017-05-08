@@ -45,7 +45,18 @@ I spent most of 2016 breathing new life into my consulting practice. If I had to
 
 You can read my blog post, where I wrote in more detail about [Revitalizing My Consulting Business](http://www.christopherhawkins.com/2016/09/full-focus-consulting-re-energized-business/).
 
-### How do you charge your clients? Hourly basis or project costing? How do you manage change requests? Do you consider them in your initial cost - what is your strategy in overall execution for change requests?
+### How do you charge your clients? Hourly basis or project costing?
+
+Both, depending upon the relative trustworthiness of the client, and the scope & type of project requirements - certain engagements that fit into a particular fixed-scope criteria can be billed as a flat-rate item, while others can be billed as ongoing hourly work.
+
+### How do you manage change requests?
+
+Very carefully! First, the request is evaluated. Then, an impact statement and estimate revision is issued for the change request. If the client agrees to the impact and the cost, then we queue the changes up to be done whenever it makes the most sense to do so.
+
+### Do you consider them in your initial cost - what is your strategy in overall execution for change requests?
+
+At the start of a project, it's not unusual for my office to inform the client that it's wise to have a contingency fund of about 20% the total project cost. We never **plan** to bill that extra 20% - in fact, our focus is explicitly on bringing a project in on-budget, every time - but experience has taught me that, just as with real-world construction projects such as home renovations, it's wise to have coverage for things that could not be forseen at the outset of a project (like the sudden desire for a new feature).
+
 
 ### You have a podcast and people see you as an expert in running a consulting business? How did you reach there?
 
