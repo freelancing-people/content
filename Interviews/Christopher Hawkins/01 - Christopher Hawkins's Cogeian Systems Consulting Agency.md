@@ -43,7 +43,7 @@ I was careless and over-eager, and I damaged my consulting practice as a result,
 
 I spent most of 2016 breathing new life into my consulting practice. If I had to do it all over again, I never would have taken that detour into the startup world. But there's no changing the past - my focus is firmly on making the best of the future.
 
-I write more about revitalizing my consulting business here: http://www.christopherhawkins.com/2016/09/full-focus-consulting-re-energized-business/
+You can read my blog post, where I wrote in more detail about [Revitalizing My Consulting Business](http://www.christopherhawkins.com/2016/09/full-focus-consulting-re-energized-business/).
 
 ### How do you charge your clients? Hourly basis or project costing? How do you manage change requests? Do you consider them in your initial cost - what is your strategy in overall execution for change requests?
 
@@ -51,9 +51,7 @@ I write more about revitalizing my consulting business here: http://www.christop
 
 I've been blogging about freelancing and consulting issues since very early in my career. By the time I had a 14-year run of operating a consulting practice, it occurred to me that I could perhaps add value to the businesses of other freelancers. I've found that the mere act of sharing your experience can cause you to be seen as an expert. 
 
-With this in mind, I launched $100K Freelancing (100kfreelancing.com), a show that helps freelancers and consultants learn the best practices for leveling-up and breaking through teh $100K revenue mark. Many of my listeners have some clients and do make some money, but feel as thought they're ready to ascend to a higher level in their operations, and I try to educate them how to do that, with the help of my co-hosts. Right now the show is offering a free piece of education entitled "5 Client Situations Stopping You From Earning $100K", and I invite any reader who wants to improve their business to sign up for it; it's a fantastic free resource.
-
-Link: http://www.100kfreelancing.com/5-client-problems-stopping-earning-100k/
+With this in mind, I launched $100K Freelancing (100kfreelancing.com), a show that helps freelancers and consultants learn the best practices for leveling-up and breaking through teh $100K revenue mark. Many of my listeners have some clients and do make some money, but feel as thought they're ready to ascend to a higher level in their operations, and I try to educate them how to do that, with the help of my co-hosts. Right now the show is offering a free piece of education entitled "[5 Client Situations Stopping You From Earning $100K](http://www.100kfreelancing.com/5-client-problems-stopping-earning-100k/)", and I invite any reader who wants to improve their business to sign up for it; it's a fantastic free resource.
 
 ### How is your overall experience today? Is it satisfying? How do you measure your success?
 
@@ -61,7 +59,7 @@ Over the years, the way I measure success has changed. As a young man (I started
 
 Now, 14 years later, my perspective has changed. The years I spent trying to be a startup founder opened my eyes to how thankless I had previously been about my consulting business. I still like to earn well, but now quality-of-life factors are much, much more important to me than earning more than some particular benchmark figure is.
 
-I write more here about my biggest takeaways from my career: http://www.christopherhawkins.com/2015/03/12-things-learned-12-years-freelancing/
+You can read the details on my blog post, where I wrote about [Biggest Takeaways from My Career](http://www.christopherhawkins.com/2015/03/12-things-learned-12-years-freelancing/)
 
 ### What are your goals for the future and how do you intend to achieve them?
 
