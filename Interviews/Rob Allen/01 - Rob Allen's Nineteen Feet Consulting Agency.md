@@ -55,3 +55,5 @@ Definitely!
 ### What are your goals for the future and how do you intend to achieve them?
 
 My long term goal is to expand my projects to use different languages and technologies to keep relevant and also to ensure that the work is interesting.
+
+### What advice would you give the freelancers who are struggling to achieve financial security and be truly independent?
