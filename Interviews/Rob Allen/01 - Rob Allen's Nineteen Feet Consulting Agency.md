@@ -62,10 +62,22 @@ My long term goal is to expand my projects to use different languages and techno
 
 ### What advice would you give the freelancers who are struggling to achieve financial security and be truly independent?
 
+Now that's a question! I don't really know. The number of working days in a year is fewer than people realise. I think it helps to work out how many working days you actually have, taking into account illness, looking for work, holidays, etc. and then set your rates appropriately. I have found it helpful to save my tax liabilities as I go and to save as much additional as I can, so that the company has a buffer. I also like to regularly review the company's financial position to keep track of trends so that I can correct if necessary.
 
 Plus, would you be so kind to provide following info:
 
 1. Company Logo
+
+https://akrabat.com/stuff/nineteenfeet.jpg
+
 2. Founded in?
+
+2013
+
 3. Based in (City, Country)
+
+Worcester, UK
+
 4. Tagline (if any)
+
+n/a
