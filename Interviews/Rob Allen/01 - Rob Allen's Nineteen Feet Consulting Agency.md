@@ -36,7 +36,12 @@ No. I keep an eye on the business' health at least once per month.
 
 ### How do you charge your clients? Hourly basis or project costing?
 
+I charge per-day and provide estimates of project costs to the client before we start and the ongoing throughout the project.
+
+
 ### How do you manage change requests? Do you consider them in your initial cost - what is your strategy in overall execution for change requests?
+
+As I charge for work done, I'm more than happy to work with the client to deliver the project that they want rather than what they thought they wanted. As I work collaboratively, I can appraise the client of the impact of any given change ont he work already done and the esimated costs.
 
 ### You have a blog and people see you as an expert in PHP? How did you reach there?
 
