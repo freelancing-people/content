@@ -34,6 +34,10 @@ Who knows what will happen in the future though when the kids have left home?!
 
 No. I keep an eye on the business' health at least once per month.
 
+### How do you charge your clients? Hourly basis or project costing?
+
+### How do you manage change requests? Do you consider them in your initial cost - what is your strategy in overall execution for change requests?
+
 ### You have a blog and people see you as an expert in PHP? How did you reach there?
 
 I've had a blog forever - well a really long time! I use it to help people and also write down things that I've learned that I don't want to have to re-learn. It's hard to keep everything in your head, so my blog is my external memory store. I think that it's best to write with the express intention of helping people rather than for "status" or "marketing" - it's more genuine and I think this shows in the writing. Nothing replaces long-term hard work and I've been writing about development on [akrabat.com](akrabat.com) since 2006, so I think that helps.
@@ -57,3 +61,11 @@ Definitely!
 My long term goal is to expand my projects to use different languages and technologies to keep relevant and also to ensure that the work is interesting.
 
 ### What advice would you give the freelancers who are struggling to achieve financial security and be truly independent?
+
+
+Plus, would you be so kind to provide following info:
+
+1. Company Logo
+2. Founded in?
+3. Based in (City, Country)
+4. Tagline (if any)
