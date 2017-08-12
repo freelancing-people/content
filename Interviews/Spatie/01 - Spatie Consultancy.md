@@ -2,7 +2,7 @@
 
 Originally, Spatie was founded 12 years ago by Willem Van Bockstal as a one-person company. In 2009 both Freek and I jumped on board, and we founded the official company Spatie as it is known today.
 
-In 2007 and 2008 I was working for a large communication company in Belgium, and he subcontracted jobs to Willem. For this Willem needed a developer, and he got some help from Freek who was working as a freelancer. I became more interested in becoming independent and working with Spatie rather than just providing jobs to them, so he switched sides. It was and still is a perfect fit because the founders each have their own domains:
+In 2007 and 2008 I was working for a large communication company in Belgium, and subcontracted jobs to Willem. For this Willem needed a developer, and he got some help from Freek who was working as a freelancer. I became more interested in becoming independent and working with Spatie rather than just providing jobs to them, so I switched sides. It was and still is a perfect fit because the founders each have their own domains:
 
 - Willem: UX/UI and front-end development
 - Freek: back-end development
@@ -51,13 +51,13 @@ It's very satisfying, but that's something we work on continuously.
 
 Success in a nutshell: having customers telling you they're pleased with your job + enjoying working + making a profit.
 
-### You have a blog and people see you as an expert in Laravel. How did you reach there? 
+### Freek, you have a blog and people see you as an expert in Laravel. How did you reach there? 
 
 A couple of years ago Spatie consisted of three co-owners. I was the sole developer. We had a (sort of) intranet to share links that we found interesting. But soon it became apparent that the stuff I was interested in, wasn't as valuable to the others. So instead of keeping those links to myself, I decided to start a blog and save them there. Maybe they could serve other developers outside of the company. So I consider my blog as a sort of public bookmarking tool. And along the way, I started being more active in open source and released a couple of packages. For every package, I also write up a friendly introduction to it with many practical examples.
 
 Though it wasn't a deliberate strategy to advertise our company, we attracted some clients through our open source work and my blog. Because of the technical nature of the articles on the blog, most of the leads give us impressive professional work as well. Reaching clients through word of mouth has always been important to us, but we see the percentage of customers that get to know us via opensource, and my blog is rising.
 
-### What do you recommend freelancers about starting technical blogs and sharing knowledge? What should they start sharing?
+### Freek, what do you recommend freelancers about starting technical blogs and sharing knowledge? What should they start sharing?
 
 Only start a blog if you like sharing things. The chance that you are going to attract new client from the get go via your blog is very small. It took me about three years. Do not consider blogging as a necessity. I know plenty of prominent developers that don't blog. 
 
@@ -65,7 +65,7 @@ If you want to start a blog, of course, write about things that spark your inter
 
 There are all kinds of blogs. Some people only write original articles, some only link to other people's blogs, and of course, there's the combination (what my blog is real). 
 
-My advice is just to start a blog, get your first out there as quickly as possible. Changes are that you'll get a small (or if you're lucky, big) reaction for your audience. If you feel motivated enough to do it again, do so...
+My advice is just to start a blog, get your first out there as quickly as possible. The chances are that you'll get a small (or if you're lucky, big) reaction for your audience. If you feel motivated enough to do it again, do so...
 
 ### What advice would you give the freelancers/agencies who are struggling to achieve financial security and be truly independent?
 
