@@ -63,9 +63,9 @@ Only start a blog if you like sharing things. The chance that you are going to a
 
 If you want to start a blog, of course, write about things that spark your interest. Start reading other blogs about the same subjects. Do not be afraid of writing about something somebody else already wrote a blog post about before you. The chances are that you have a different style and will have put emphasis on other aspects of the subject. 
 
-There are all kinds of blogs. Some people only write original articles, some only link to other people's blogs, and of course, there's the combination (what my blog is real). 
+There are all kinds of blogs. Some people only write original articles, some only link to other people's blogs, and of course, there's the combination (what my blog is like). 
 
-My advice is just to start a blog, get your first out there as quickly as possible. The chances are that you'll get a small (or if you're lucky, big) reaction for your audience. If you feel motivated enough to do it again, do so...
+My advice is just to start a blog, get your first out there as quickly as possible. The chances are that you'll get a small (or if you're lucky, big) reaction from your audience. If you feel motivated enough to do it again, do so...
 
 ### What advice would you give the freelancers/agencies who are struggling to achieve financial security and be truly independent?
 
